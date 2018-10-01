@@ -9,7 +9,7 @@
 - 버전 업데이트에 맞춰 주기적으로 업데이트할 예정입니다.
 
 
-# 소스 코드의 실시간 업데이트는 역자분의 깃허브와 블로그를 참고해주세요.
+## 소스 코드의 실시간 업데이트는 역자분의 깃허브와 블로그를 참고해주세요.
 
 - 깃허브 : https://github.com/rickiepark/deep-learning-with-python-notebooks
 - 블로그 : https://tensorflow.blog/
